@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/elxn2021-fb-ad-spend-national/static/css/main.f6906121.chunk.css",
-    "main.js": "/elxn2021-fb-ad-spend-national/static/js/main.a77f1006.chunk.js",
-    "main.js.map": "/elxn2021-fb-ad-spend-national/static/js/main.a77f1006.chunk.js.map",
-    "runtime-main.js": "/elxn2021-fb-ad-spend-national/static/js/runtime-main.386ac7d2.js",
-    "runtime-main.js.map": "/elxn2021-fb-ad-spend-national/static/js/runtime-main.386ac7d2.js.map",
-    "static/js/2.58360475.chunk.js": "/elxn2021-fb-ad-spend-national/static/js/2.58360475.chunk.js",
-    "static/js/2.58360475.chunk.js.map": "/elxn2021-fb-ad-spend-national/static/js/2.58360475.chunk.js.map",
-    "index.html": "/elxn2021-fb-ad-spend-national/index.html",
-    "static/css/main.f6906121.chunk.css.map": "/elxn2021-fb-ad-spend-national/static/css/main.f6906121.chunk.css.map",
-    "static/js/2.58360475.chunk.js.LICENSE.txt": "/elxn2021-fb-ad-spend-national/static/js/2.58360475.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/elxn2021-fb-ad-spend-national/static/media/Shift-BoldItalic.144e2c1f.otf"
+    "main.css": "/elxn21-fb-ad-spend-national/static/css/main.32b4f9b3.chunk.css",
+    "main.js": "/elxn21-fb-ad-spend-national/static/js/main.3cfc6aa5.chunk.js",
+    "main.js.map": "/elxn21-fb-ad-spend-national/static/js/main.3cfc6aa5.chunk.js.map",
+    "runtime-main.js": "/elxn21-fb-ad-spend-national/static/js/runtime-main.ea2d9ac3.js",
+    "runtime-main.js.map": "/elxn21-fb-ad-spend-national/static/js/runtime-main.ea2d9ac3.js.map",
+    "static/js/2.58360475.chunk.js": "/elxn21-fb-ad-spend-national/static/js/2.58360475.chunk.js",
+    "static/js/2.58360475.chunk.js.map": "/elxn21-fb-ad-spend-national/static/js/2.58360475.chunk.js.map",
+    "index.html": "/elxn21-fb-ad-spend-national/index.html",
+    "static/css/main.32b4f9b3.chunk.css.map": "/elxn21-fb-ad-spend-national/static/css/main.32b4f9b3.chunk.css.map",
+    "static/js/2.58360475.chunk.js.LICENSE.txt": "/elxn21-fb-ad-spend-national/static/js/2.58360475.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/elxn21-fb-ad-spend-national/static/media/Shift-BoldItalic.144e2c1f.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.386ac7d2.js",
+    "static/js/runtime-main.ea2d9ac3.js",
     "static/js/2.58360475.chunk.js",
-    "static/css/main.f6906121.chunk.css",
-    "static/js/main.a77f1006.chunk.js"
+    "static/css/main.32b4f9b3.chunk.css",
+    "static/js/main.3cfc6aa5.chunk.js"
   ]
 }
