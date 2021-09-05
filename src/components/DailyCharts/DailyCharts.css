@@ -1,0 +1,86 @@
+.App .daily-charts h2 {
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+
+.daily-charts h2 .h2-small {
+	font-size: 1.15rem;
+}
+
+.daily-charts #charts {
+	/*column-gap: 1rem;*/
+	display: flex;
+	flex-wrap: wrap;
+	justify-items: center;
+	margin-bottom: 15px;
+	row-gap: 15px;
+}
+
+
+
+
+/* AXIS */
+.daily-charts #charts .axis line {
+  stroke: var(--grey04);
+  shape-rendering: crispEdges;
+}
+.daily-charts #charts .axis text {
+	color: var(--black);
+	font-family: BentonSansCond-Regular, Helvetica, sans-serif;
+	font-size: 0.9rem;
+}
+
+.daily-charts #charts .label-text {
+	font-family: BentonSansCond-Regular, Helvetica, sans-serif;
+	font-size: 1.25rem;
+	transform: translate(-25px, 5px);
+
+}
+
+
+/* PARTY COLOURS*/
+#charts .label-text.green,
+#charts .green rect {
+	fill: var(--green);
+}
+#charts .label-text.liberal,
+#charts .liberal rect {
+	fill: var(--liberal);
+}
+#charts .label-text.ndp,
+#charts .ndp rect {
+	fill: var(--ndp);
+}
+#charts .label-text.bloc,
+#charts .bloc rect {
+	fill: var(--bloc);
+}
+#charts .label-text.cpc,
+#charts .cpc rect {
+	fill: var(--conservative);
+}
+
+
+
+
+
+@media only screen and (min-width: 500px) {
+    /* Style adjustments for viewports that meet the condition */
+    .daily-charts #charts {
+/*    	display: flex;
+    	flex-direction: row;
+    	height: 325px;
+    	margin-bottom: 15px;*/
+    	display: flex;
+    	flex-wrap: wrap;
+    	justify-items: center;
+    	margin-bottom: 15px;
+    	row-gap: 15px;
+    }
+
+    .daily-charts #charts > svg {
+    	/*flex: 2;*/
+    	margin: 0;
+    	width: 100%;
+    }
+}

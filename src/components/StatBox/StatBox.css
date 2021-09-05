@@ -1,0 +1,45 @@
+.stat-box .stat {
+	flex: 1;
+}
+.stat-box .big-num {
+	font-family: 'Shift-Bold', serif;
+	font-size: 1.65rem;
+	font-weight: 800;
+	line-height: 2rem;
+	margin: 0;
+
+}
+.stat .liberal {
+	color: var(--liberal);
+}
+.stat .ndp {
+	color: var(--ndp);
+}
+.stat .green {
+	color: var(--green);
+}
+.stat .cpc {
+	color: var(--conservative);
+}
+.stat .bloc {
+	color: var(--bloc);
+}
+.stat-box .label {
+	color: #6D6E70;
+	font-size: 0.95rem;
+	line-height: 1.25rem;
+	margin: 0;
+	padding-bottom: 5px;
+	text-transform: uppercase;
+}
+
+
+@media (min-width: 500px)  {
+	.stat-box .big-num {
+		font-size: 2.5rem;
+		line-height: 3rem;
+	}
+	.stat-box .label {
+		font-size: 0.95rem;
+	}
+}

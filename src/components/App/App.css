@@ -1,0 +1,25 @@
+.App {
+	margin: 0 auto;
+	max-width: 550px;
+}
+
+.App > h2 {
+	margin-bottom: 20px !important;
+}
+
+/* SOURCE */
+footer .source {
+	color: var(--grey01);
+	font-size: 0.9rem;
+}
+footer .source a:-webkit-any-link {
+	color: var(--grey01);
+}
+
+
+
+@media only screen and (max-width: 600px) {
+	.App h1 {
+   		font-size: 1.65rem !important;
+	}
+}

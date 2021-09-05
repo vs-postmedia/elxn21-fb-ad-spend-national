@@ -1,0 +1,23 @@
+.tooltip {
+	background: rgba(255,255,255,0.8);
+	border: 1px solid grey;
+	pointer-events: none;
+	position: absolute;
+}
+.tooltip {
+	padding: 5px;
+}
+
+.tooltip-content .date {
+	color: var(--grey02);
+	font-size: 0.8rem;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+.tooltip-content .total-amount {
+	font-size: 2.5rem;
+}
+
+.tooltip-content p {
+	margin-bottom: 3px
+}
